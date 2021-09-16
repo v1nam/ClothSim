@@ -38,7 +38,7 @@ void initCurtain(std::vector<Particle>& curtain, int screenWidth) {
 int main() {
     std::vector<Particle> curtain;
 
-    const int screenWidth = 800;
+    const int screenWidth = 600;
     const int screenHeight = 600;
     initCurtain(curtain, screenWidth);
 
